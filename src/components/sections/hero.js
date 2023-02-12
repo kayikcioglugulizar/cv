@@ -82,7 +82,7 @@ const Hero = () => {
       href="https://gkitconsultancy.co.uk/"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Get In Touch!
     </a>
   );
 
